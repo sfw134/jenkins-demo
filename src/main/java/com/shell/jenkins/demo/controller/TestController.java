@@ -14,6 +14,6 @@ public class TestController {
 
     @RequestMapping("/test")
     public String test() {
-        return "Hello, world!!";
+        return "Hello, world!";
     }
 }
